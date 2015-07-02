@@ -1,7 +1,4 @@
-# Julia_tutorial
-Julia tutorials &amp; stuff
 
 
-... still testing.......
-
+This hands-on tutorial covers Dataframes in Julia. Enjoy !
 
